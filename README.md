@@ -283,13 +283,13 @@ Special thanks to the dataset author for making this resource publicly available
 
 # 👨‍💻 Author
 
-**Uppu Palachakravarthi**
+**Thota Pavan Kumar**
 
 B.Tech Computer Science & Engineering
 
 AI • Machine Learning • Deep Learning
 
-GitHub: https://github.com/palachakravarthi
+GitHub: https://github.com/pavankumar-learner
 
 ---
 
@@ -304,5 +304,5 @@ This project is licensed under the MIT License.
 </p>
 
 <p align="center">
-Made with ❤️ by Uppu Palachakravarthi
+Made with ❤️ by Thota Pavan Kumar
 </p>
