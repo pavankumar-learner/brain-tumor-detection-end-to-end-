@@ -18,3 +18,4 @@ notebook>=7.0
 ipykernel>=6.29
 
 tqdm>=4.67
+streamlit>=1.35.0

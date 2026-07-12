@@ -1,9 +1,23 @@
+# Python caches
 __pycache__/
 *.pyc
+
+# Virtual Environments (CRITICAL)
+.venv/
+venv/
 .env
+
+# Editor settings
 .vscode/
-models/*.h5
-models/*.keras
-models/*.ckpt
 .ipynb_checkpoints/
+
+# Datasets
 dataset/
+
+# Heavy Model Files (Global ignore)
+*.h5
+*.keras
+*.ckpt
+
+# OS generated files
+.DS_Store
