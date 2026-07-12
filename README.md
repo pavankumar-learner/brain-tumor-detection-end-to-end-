@@ -188,7 +188,7 @@ BrainTumorProject
 
 ```bash
 # Clone Repository
-git clone https://github.com/palachakravarthi/brain-tumor-detection-end-to-end.git
+git clone https://github.com/pavankumar-learner/brain-tumor-detection-end-to-end-.git
 
 # Move to Project Directory
 cd BrainTumorProject
@@ -228,6 +228,23 @@ python scripts/dataset_analysis.py
 <img src="outputs/augmented_images.png" width="900">
 
 ---
+
+
+### 🧠 Train the Model
+
+Due to GitHub file size limits, the trained model (`best_model.h5`) is not included in this repository. You must train the model locally before launching the web app.
+
+```bash
+python scripts/train_model.py
+```
+
+### 💻 Launch the Web App
+
+To start the interactive Streamlit diagnostic interface, run:
+
+```bash
+streamlit run app/main.py
+```
 
 ### 📈 Project Progress
 
