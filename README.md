@@ -131,6 +131,7 @@ Deployment
 
 # 📂 Project Structure
 
+```text
 BrainTumorProject
 ├── app
 │   └── main.py
