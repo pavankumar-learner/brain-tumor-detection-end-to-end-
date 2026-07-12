@@ -131,31 +131,25 @@ Deployment
 
 # 📂 Project Structure
 
-```text
 BrainTumorProject
-│
 ├── app
 │   └── main.py
-│
 ├── dataset
 │   ├── Training
 │   ├── Validation
 │   └── Testing
-│
-├── models
-│
 ├── outputs
 │   ├── class_distribution.png
 │   ├── sample_mri_images.png
-│   ├── augemented_images.png
-│
+│   └── augemented_images.png
 ├── scripts
-│   └── dataset_analysis.py
-│
+│   ├── best_model.h5
+│   ├── dataset_analysis.py
+│   └── train_model.py
+├── .gitignore
 ├── requirements.txt
 ├── README.md
 └── LICENSE
-```
 
 # 📊 Dataset Statistics
 
@@ -233,18 +227,18 @@ python scripts/dataset_analysis.py
 
 ---
 
-# 📈 Project Progress
+### 📈 Project Progress
 
-| Module             | Status         |
-| ------------------ | -------------- |
-| Project Setup      | ✅ Completed    |
-| Dataset Analysis   | ✅ Completed    |
-| Visualization      | ✅ Completed    |
-| Data Validation    | ✅ Completed    |
-| Data Preprocessing | 🔄 In Progress |
-| CNN Model          | 🔄 In Progress |
-| Transfer Learning  | ⏳ Planned      |
-| Deployment         | ⏳ Planned      |
+| Module | Status |
+| :--- | :--- |
+| **Project Setup** | ✅ Completed |
+| **Dataset Analysis** | ✅ Completed |
+| **Visualization** | ✅ Completed |
+| **Data Validation** | ✅ Completed |
+| **Data Preprocessing** | ✅ Completed |
+| **CNN Model** | ✅ Completed |
+| **Transfer Learning** | ⏳ Planned |
+| **Deployment** | ✅ Completed |
 
 ---
 
